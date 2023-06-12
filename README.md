@@ -1,2 +1,6 @@
 # Meta-Active-Learning-for-Regression-Ensemble-Learning
 Interpretable Meta-Active Learning for Regression Ensemble Learning
+Active learning has been proven to efficiently decrease the required amount of labeled data for solving supervised learning tasks and reducing thus data annotation costs. While ensemble-based active learning schemes have been widely studied for classification problems, few works investigated their usability for regression tasks.
+In this paper, we propose a novel active learning method for regression ensemble learning using meta-learning. Meta-learning is exploited to predict continuous utility values of candidate unlabelled data points. Sample selection is devised to take into account both ensemble accuracy and diversity at the same time.
+In addition, the ensemble model and the meta-learner share the same features. This enables the provision of a suitable explanation for the reason behind selecting a specific sample during the active learning procedure to improve the ensemble performance.  
+Empirical testing of the method is performed, assessing both its performance and scalability using several regression real-world datasets. Achieved results show its competitiveness in comparison to state-of-the-art approaches for active learning and ensemble learning for regression.
