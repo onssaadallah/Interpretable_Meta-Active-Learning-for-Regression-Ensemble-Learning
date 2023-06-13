@@ -18,3 +18,10 @@ _Regression_Ensemble_Learning.ipynb is the notebook that follows this pipeline.
 -Datasets_data .json defines the regression datasets that we used in the experiments
 -Dataset.csv contains the CSV files of datasets.
 -METAL_EXP shows the outputs plots of features importance of the main model before and after adding the top k relevant data points from unlabeled train data in each number of iterations (numbers of iterations are 5,10,20 and 50).
+
+## Tools and Frameworks Used
+- [matplotlib] cross-platform, data visualization and graphical plotting library for Python
+- [Keras] Deep Learning Library
+- [NumPy] Scientific numerical calculations library
+- [pandas]  Python library used for working with data sets
+- [Scikit-learn] Machine learning algorithms tools3
