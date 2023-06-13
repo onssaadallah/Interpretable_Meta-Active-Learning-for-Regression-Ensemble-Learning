@@ -13,7 +13,7 @@ Empirical testing of the method is performed, assessing both its performance and
 3.SBED: Sub-Evaluation Data
 4.ULTD: Unlabeled Training data
 
-## Repository filefiles
+## Repository files
 1- Regression_Ensemble_Learning.ipynb is the notebook that follows this pipeline.
 2- Datasets_data .json defines the regression datasets that we used in the experiments
 3- Dataset.csv contains the CSV files of datasets.
