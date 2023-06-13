@@ -7,13 +7,14 @@ Empirical testing of the method is performed, assessing both its performance and
 
 ![Beige Colorful Minimal Flowchart Infographic Graph (2)](https://github.com/onssaadallah/Meta-Active-Learning-for-Regression-Ensemble-Learning/assets/44116045/bf816c65-d1b4-41c0-a2e4-f46316259739)
 
-SBTD: Sub Trained Labelled Data
+1.SBTD: Sub Trained Labelled Data
 2.SBUD: Sub update Labelled Data
 
-SBED: Sub-Evaluation Data
+3.SBED: Sub-Evaluation Data
 4.ULTD: Unlabeled Training data
--Interpretable_MetaActiveLearning _for _Regression_Ensemble_Learning.ipynb is the notebook that follows this pipeline.
--Datasets_data .json defines the regression datasets that we used in the experiments
 
-Dataset.csv contains the CSV files of datasets63
-METAL_EXP shows the outputs plots of features importance of the main model before and after adding the top k relevant data points from unlabeled train data in each number of iterations (numbers of iterations are 5,10,20 and 50).**
+
+_Regression_Ensemble_Learning.ipynb is the notebook that follows this pipeline.
+-Datasets_data .json defines the regression datasets that we used in the experiments
+-Dataset.csv contains the CSV files of datasets.
+-METAL_EXP shows the outputs plots of features importance of the main model before and after adding the top k relevant data points from unlabeled train data in each number of iterations (numbers of iterations are 5,10,20 and 50).
