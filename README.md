@@ -10,8 +10,10 @@ META M and AL process
 
 
 
-![5](https://github.com/onssaadallah/Meta-Active-Learning-for-Regression-Ensemble-Learning/assets/44116045/3c7b322d-35a0-4099-84eb-cd4e876ba805)
-![2](https://github.com/onssaadallah/Meta-Active-Learning-for-Regression-Ensemble-Learning/assets/44116045/ba9f456e-997e-4258-814b-59fc8fb8e88d)
+![5](https://github.com/onssaadallah/Interpretable_Meta-Active-Learning-for-Regression-Ensemble-Learning/assets/44116045/7f7d5acc-9171-4e81-9c87-41f477cedd7d)
+
+![2](https://github.com/onssaadallah/Interpretable_Meta-Active-Learning-for-Regression-Ensemble-Learning/assets/44116045/428747b7-5ca9-4c8d-8982-9a6ecf9ccdd5)
+
 
 
 
